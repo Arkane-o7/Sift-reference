@@ -12,6 +12,18 @@
 [![GitHub stars](https://img.shields.io/github/stars/Pickle-Pixel/ApplyPilot?style=social)](https://github.com/Pickle-Pixel/ApplyPilot)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S01UL5IO)
 
+> **Fork notice:** `Arkane-o7/Sift-reference` is a reference fork of [Pickle-Pixel/ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot). Product names, package metadata, releases, and support links below belong to the upstream project unless this fork explicitly documents a divergence.
+
+```mermaid
+flowchart LR
+    A[Job sources] --> B[Discover and enrich]
+    B --> C[Score against profile]
+    C --> D[Tailor resume]
+    D --> E[Generate cover letter]
+    E --> F[Browser-assisted application]
+    F --> G[Local application history]
+```
+
 
 
 
